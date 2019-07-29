@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/davidhan/catkin_ws/src/ROS-Academy-for-Beginners/radar2novatel/cmake-build-debug/devel/setup.sh
